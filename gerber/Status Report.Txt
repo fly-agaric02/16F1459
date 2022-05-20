@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PIC16F1459.PrjPcb]
+   Generated File[PIC16F1459.TXT]
+   Generated File[PIC16F1459.LDP]
+   Generated File[PIC16F1459.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:05:55 On 2022/05/15
